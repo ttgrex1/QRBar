@@ -1,0 +1,20 @@
+Launch the QR Code and Barcode Generator app.
+Enter the data for which you want to create a QR code or barcode in the input box.
+Click the "Generate QR Code" button to create a QR code image based on the entered data.
+The generated QR code will appear in the image area of the app.
+If you want to generate a barcode instead, click the "Generate Barcode" button.
+The generated barcode will replace the QR code in the image area.
+To save the generated QR code or barcode, click the "Save" button.
+If you have already set a default folder, the image will be saved there. Otherwise, a message will prompt you to set a default folder.
+To set a default folder, click on the "File" menu and choose "Set Default Folder." Select the folder where you want to save the images.
+After setting the default folder, you can click the "Save" button again to save the image.
+If you want to open an existing image file, click on the "File" menu and choose "Open File." Select the image file you want to open.
+The selected image will appear in the image area, and its data will be displayed in the input box.
+You can repeat the process to generate more QR codes or barcodes by entering different data in the input box.
+Remember, if you have any questions or encounter any issues, feel free to ask for help. Have fun generating QR codes and barcodes with the app!
+
+
+
+
+
+
